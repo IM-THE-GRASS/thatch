@@ -2,7 +2,8 @@
 title: "Thatch"
 author: "The Grass"
 description: "A cross gantry 3D printer which is my 3rd printer in my line of grass themed printers."
-created_at: "2025-07-15"
+created_at: "2025-07-20
+"
 ---
 
 ---
