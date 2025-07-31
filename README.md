@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="" height="555" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa5de29a8960a1d48c69191333dcf3a4fd1bcc07_2b0461f0-936f-4286-b968-6de475fde802.png" />
+  <img align="center" width="" height="333" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa5de29a8960a1d48c69191333dcf3a4fd1bcc07_2b0461f0-936f-4286-b968-6de475fde802.png" />
 </div>
 <h2 align="center">THATCH</h2>
 <div align="center">
